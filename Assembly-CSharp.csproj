@@ -42,6 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <None Include="Assets\Emission\EmissionShader.shader" />
      <Reference Include="UnityEngine">
      <HintPath>D:\soft\Unity\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
